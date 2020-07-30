@@ -98,5 +98,5 @@ Inside-Out Algorithm可以由前向后扫描数组，所以可以应该arr[]数�
 
 ### 算法证明
 
-参考https://blog.csdn.net/qq_26399665/article/details/79831490，写的非常好。
+参考[三种洗牌算法shuffle](https://blog.csdn.net/qq_26399665/article/details/79831490)，写的非常好。
 
